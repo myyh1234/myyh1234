@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://github-readme-stats.vercel.app/api?username=myyh1234)](https://github.com/anuraghazra/github-readme-stats)
+
+[![myyh1234](http://mazassumnida.wtf/api/v2/generate_badge?boj=myyh1234)](https://solved.ac/myyh1234)
 <!--
 **myyh1234/myyh1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
