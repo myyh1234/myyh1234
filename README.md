@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myyh1234)
 
-[![](https://myyh1234.github.io/cf-profile/api/main.html)](https://codeforces.com/profile/chan_uuu)
-
 [![myyh1234](http://mazassumnida.wtf/api/v2/generate_badge?boj=myyh1234)](https://solved.ac/myyh1234)
 
 
